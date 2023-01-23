@@ -9,3 +9,5 @@ Pueden hacer lo que quieran...
 ### Actualizado desde github 
 
 Este es un cambio realizado desde gitHUB
+
+## Actualizado desde local 
